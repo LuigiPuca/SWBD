@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T17:53:35.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="xM2jIMI2cqbXLxIAH1lI" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T17:54:43.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kB587rCkuDhWAWb_uQnx" version="22.1.19" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1688" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="965" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,22 +101,22 @@
           <mxGeometry x="410" y="-780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qFlmXs2-IiSOsGQ-q7WV-2" value="Ruolo" style="ellipse;whiteSpace=wrap;html=1;align=right;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=default;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-770" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="-772" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qFlmXs2-IiSOsGQ-q7WV-3" value="Password" style="ellipse;whiteSpace=wrap;html=1;align=right;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=default;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-727" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="-724" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qFlmXs2-IiSOsGQ-q7WV-4" value="Email" style="ellipse;whiteSpace=wrap;html=1;align=right;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=default;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-737" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="-736" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qFlmXs2-IiSOsGQ-q7WV-5" value="Cognome" style="ellipse;whiteSpace=wrap;html=1;align=right;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=default;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-747" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="-748" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qFlmXs2-IiSOsGQ-q7WV-6" value="Nome" style="ellipse;whiteSpace=wrap;html=1;align=right;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=default;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-757" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="-760" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qFlmXs2-IiSOsGQ-q7WV-7" value="ID_Utente" style="ellipse;whiteSpace=wrap;html=1;align=right;fontStyle=4;labelBackgroundColor=none;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-790" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="-784" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
